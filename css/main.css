@@ -28,3 +28,9 @@ a:hover { text-decoration:underline;}
 	margin-top:50px;
 	border:1px solid #eeeeee;
 }
+
+.preview-image {
+	margin:0 auto;
+	height:896px;
+	width:896px;
+}
