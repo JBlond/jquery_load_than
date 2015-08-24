@@ -6,7 +6,7 @@
 	};
 	jQuery.fn.loadonclick = function(){
 		jQuery(this).find('img').loadimage('data-src');
-	}
+	};
 	jQuery.fn.loadonscroll = function(){
 		jQuery(this).find('img').waypoint(function() {
 			jQuery(this).loadimage('data-src');
